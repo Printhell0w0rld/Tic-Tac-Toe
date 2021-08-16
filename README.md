@@ -1,6 +1,7 @@
 # Tic-Tac-Toe
 The code for Tic-Tac-Toe, i think the code can still be optimized to become shorter and better.
-The code is written by myself and uses pygame to run the code, so make sure you have pygame to run the code.
+The code is written by myself and uses pygame to run the code, so make sure you have pygame to start playing Tic-Tac-Toe.
+You can use keyboard Enter bottom to restart the game!!
 
 Have fun!!!!!!!!!!!
 ```Python
