@@ -3,7 +3,7 @@ The code for Tic-Tac-Toe, i think the code can still be optimized to become shor
 The code is written by myself and uses pygame to run the code, so make sure you have pygame to run the code.
 
 Have fun!!!!!!!!!!!
-
+```
 import pygame,sys
 import time
 import random
@@ -167,5 +167,5 @@ while True:
     all_sprites.update()
     all_sprites.draw(screen) 
     pygame.display.update()
-
+```
 
